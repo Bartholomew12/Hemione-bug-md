@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347041620617"
-global.ownername = "🗿 🗿 emperor"
+global.ownernomer = "2347041620617,2347015667458"
+global.ownername ="ꨄ✞ 𝙏𝞖𝞢  𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁  ✞ꨄ"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: Emperordagoat"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2347041620617'  //creator number
-global.ownername = 'Emperor' //owner name
-global.botname = 'Emperor dee ' //name of the bot
+global.ownernumber = '2347041620617,2347015667458'  //creator number
+global.ownername = 'ꨄ✞ 𝙏𝞖𝞢  𝘿𝞢𝝯𝞘𝙇 𝞖𝞘𝞛𝙎𝞢𝙇𝙁  ✞ꨄ' //owner name
+global.botname = '𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇𝙎 𝞑𝞗𝙏' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By your dad'
-global.author = 'メ メ emperor klaus'
+global.packname = '𝞑𝞢𝙇𝞗𝞜𝙂𝙎 𝙏𝞗'
+global.author = '𝙏𝞖𝞢 𝘿𝞢𝝯𝞘𝙇'
 
 //console view/theme
 global.themeemoji = '🗿'
